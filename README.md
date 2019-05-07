@@ -1,2 +1,2 @@
 # lendmn-api-js
-LendMN Open Platform API Client Javascript nodejs implementation
+LendMN Open Platform API Javascript nodejs implementation
